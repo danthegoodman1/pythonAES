@@ -18,7 +18,7 @@ To-Do:
 ### To-Do:
 
 ~~- Convert into helper functions~~
-~~- Make use for string or file~~
-~~- Implement support for files~~
-~~- Combine CBC and CTR into single program and give user option~~
+\n~~- Make use for string or file~~
+\n~~- Implement support for files~~
+\n~~- Combine CBC and CTR into single program and give user option~~
 
