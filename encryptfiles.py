@@ -1,4 +1,4 @@
-# made with <3 by Dan Goodman 10/2/2017
+# made with <3 by Dan Goodman, signed 10/2/2017
 
 import hashlib
 from Crypto.Cipher import AES
