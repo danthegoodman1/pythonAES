@@ -1,3 +1,5 @@
+# made with <3 by Dan Goodman 10/2/2017
+
 import hashlib
 from Crypto.Cipher import AES
 from Crypto.Hash import SHA256
