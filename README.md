@@ -11,6 +11,7 @@ hashes the key using SHA256(may update to SHA512)
 To-Do:
 - Make more user friendly
 - Make iv's not a random int from 0-98 (make an additional user input alongside the key), make it random bytes (using urandom) converted to an integer
+- Finish making the out\_filename optional
 
 ### To-Do:
 
