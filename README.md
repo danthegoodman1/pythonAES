@@ -1,5 +1,7 @@
 # pythonAES/pyCryptor
 
+## This is unmaintained, check the below link for the most up-to date version:
+[https://bitbucket.org/danthegoodman1/pycryptor](https://bitbucket.org/danthegoodman1/pycryptor)
 
 ### (WIP) My own Python encryption program
 
